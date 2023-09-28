@@ -1,0 +1,31 @@
+#fondo{
+    width: 100%; 
+    height: 100%; 
+    background-image: url(../assest/image/Halo-infinite.jpeg); 
+    background-size: cover; 
+    background-repeat: no-repeat; 
+    background-position: center center;
+}
+
+.linea-vertical {
+    border: none;
+    border-left: 2px solid black; /* Cambia el color y grosor de la línea según tus preferencias */
+    height: 25px; /* Ajusta la altura de la línea vertical */
+    margin: 1px 15px; /* Espacio a ambos lados de la línea vertical */
+}
+
+.contenedor{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end; /* Alineación en la parte inferior del contenedor */
+    align-items: center;
+    width: 100%;
+    height: 600px;
+}
+
+.textoh1 {
+    text-align: center; /* Alinea el texto horizontalmente en el centro */
+    color: white;
+    font-size: 30px; 
+    font-family: verdana, sans-serif; 
+}
