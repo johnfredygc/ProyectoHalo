@@ -50,12 +50,25 @@
     padding-right: 5px;   
 }
 
+.licinco{    
+    padding-right: 360px;   
+    padding-left: 25px;
+}
+
+.liseis{    
+    padding-right: 7px;   
+}
+
 .image-ubicar{
     margin-top: 10px;
 }
 
 .image-ubicardos{
     margin-top: 2px;
+}
+
+.image-ubicartres{    
+    margin-bottom: 7px;
 }
 
 .letras{
@@ -73,3 +86,35 @@
     padding-right: 50px;
 }
 
+.navbarfooder{
+    float: left;
+    padding-top: 35px;
+    padding-bottom: 15px;
+    margin: 0%;    
+}
+
+.narbarfooderdos{
+    float: left;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin: 0%;  
+}
+
+.divfooder{          
+    padding-left: 140px;
+    margin-right: 0%;
+}
+
+.divfooderdos{
+    background-color: rgba(59, 57, 57, 0.89);
+}
+
+.texto-tabla{
+    color: rgba(63, 61, 61, 0.89);
+    font-size: 15px;
+    margin: 0%
+}
+
+.texto-tablados{
+    font-size: 11px;    
+}
