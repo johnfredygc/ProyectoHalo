@@ -7,6 +7,33 @@
     background-position: center butt;
 }
 
+#fondo-video{
+    width: 100%; 
+    height: 100%; 
+    background-image: url(../assest/image/imagen-halo-dos.webp); 
+    background-size: cover; 
+    background-repeat: no-repeat; 
+    background-position: center butt;
+}
+
+#fondo-formulario{
+    width: 100%; 
+    height: 100%; 
+    background-image: url(../assest/image/imagen-halo-tres.webp); 
+    background-size: cover; 
+    background-repeat: no-repeat; 
+    background-position: center butt;
+}
+
+#fondo-mapa{
+    width: 100%; 
+    height: 100%; 
+    background-image: url(../assest/image/imagen-halo-cuatro.webp); 
+    background-size: cover; 
+    background-repeat: no-repeat; 
+    background-position: center butt;
+}
+
 .linea-vertical {
     border-left: 2px solid black; /* Cambia el color y grosor de la línea según tus preferencias */
     height: 25px; /* Ajusta la altura de la línea vertical */
@@ -25,8 +52,39 @@
 .contenedor2{
     display: flex;
     flex-direction: column;
+    justify-content: flex-start; /* Alineación en la parte inferior del contenedor */        
+    align-items: center;
+}
+
+.contenedor3{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start; /* Alineación en la parte inferior del contenedor */   
+    align-items: center; 
+}
+
+.contenedor-formulario{
+    display: flex;
+    flex-direction: column;
     justify-content: flex-start; /* Alineación en la parte inferior del contenedor */
-    align-items: center;    
+    align-items: center;
+    width: 100%;
+    height: 1000px;
+}
+
+.video-container {
+    display: flex;
+    justify-content: space-between;
+}
+.video {
+    flex: 1;
+    margin: 10px;
+}
+
+.organizar-formulario{
+    margin: 50px 100px 100px 100px;
+    width: 50%;
+    height: 50%;
 }
 
 .textoh1 {
@@ -81,6 +139,21 @@
     font-size: 24px;         
     margin: 40px 0px 30px 0px;    
     font-family: 'Gabarito', sans-serif
+}
+
+.textoh8 {    
+    color: rgb(255, 255, 255);
+    font-size: 30px;              
+    font-family: 'Gabarito', sans-serif
+}
+
+.textoh9 {
+    text-align: center; /* Alinea el texto horizontalmente en el centro */
+    color: rgb(255, 255, 255);
+    font-size: 60px; 
+    font-family: 'Gabarito', sans-serif; 
+    padding-top: 80px;
+    padding-bottom: 10px;
 }
 
 .header {
