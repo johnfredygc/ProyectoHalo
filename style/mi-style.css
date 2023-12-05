@@ -290,3 +290,24 @@
 .div-card{
     margin: 23px 60px 110px 60px;
 }
+
+.csserror{
+    border: 5px dashed #9b1e1e;
+    color: blue;
+}
+
+.mejorsaga {    
+    color: rgb(255, 255, 255);
+    font-size: 30px; 
+    font-family: 'Gabarito', sans-serif;     
+    padding-bottom: 50px;
+    padding-left: 80px;
+}
+
+.mejorsaga2 {
+    width: 16%; 
+    height: 16%;
+    border: 5px solid rgb(18, 19, 88);
+    border-radius: 8px;
+   
+}

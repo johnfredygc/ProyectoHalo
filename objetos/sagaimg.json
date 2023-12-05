@@ -1,0 +1,64 @@
+{
+    "sagas":[
+        {
+            "imagen":"./assest/image/saga/halo.jpg",
+            "nombre":"Halo    ",
+            "año":"2002"
+        },
+        {
+            "imagen":"./assest/image/saga/halo-combat-evolved.jpg",
+            "nombre":"Halo: Combat Evolved    ",
+            "año":"2003"
+        },
+        {
+            "imagen":"./assest/image/saga/halo2.jpg",
+            "nombre":"Halo 2    ",
+            "año":"2004"
+        },
+        {
+            "imagen":"./assest/image/saga/halo3.jpg",
+            "nombre":"Halo 3    ",
+            "año":"2007"
+        },
+        {
+            "imagen":"./assest/image/saga/halo-wars.jpg",
+            "nombre":"Halo Wars    ",
+            "año":"2009"
+        },
+        {
+            "imagen":"./assest/image/saga/halo3-odst.jpg",
+            "nombre":"Halo 3: ODST    ",
+            "año":"2009"
+        },
+        {
+            "imagen":"./assest/image/saga/halo-reach.jpg",
+            "nombre":"Halo Reach    ",
+            "año":"2010"
+        },
+        {
+            "imagen":"./assest/image/saga/halo-combat-evolved-annyversary.jpg",
+            "nombre":"Halo: Combat Evolved Anniversary    ",
+            "año":"2011"
+        },
+        {
+            "imagen":"./assest/image/saga/halo3.jpg",
+            "nombre":"Halo 4    ",
+            "año":"2012"
+        },
+        {
+            "imagen":"./assest/image/saga/Halo-Spartan-Assault.jpg",
+            "nombre":"Halo: Spartan Assault    ",
+            "año":"2013"
+        },
+        {
+            "imagen":"./assest/image/saga/Halo-The-Master.jpg",
+            "nombre":"Halo: The Master Chief Collection    ",
+            "año":"2014"
+        },
+        {
+            "imagen":"./assest/image/saga/Halo-Spartan-Strike.jpg",
+            "nombre":"Halo: Spartan Strike    ",
+            "año":"2015"
+        }
+    ]
+}
